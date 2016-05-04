@@ -1,5 +1,5 @@
 require "gtest/version"
 
 module Gtest
-  # Your code goes here...
+	class Engine < ::Rails::Engine; end
 end
